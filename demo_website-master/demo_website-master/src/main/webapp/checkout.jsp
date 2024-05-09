@@ -30,9 +30,9 @@
         <tr>
             <td>1</td>
             <td>Mặt nạ</td>
-            <td>123,000VNĐ</td>
+            <td>124,000VNĐ</td>
             <td>3</td>
-            <td>123,000VNĐ</td>
+            <td>124,000VNĐ</td>
             <td rowspan="3">200,000VNĐ</td>
         </tr>
         <tr>
