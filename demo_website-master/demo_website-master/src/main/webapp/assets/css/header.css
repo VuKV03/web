@@ -29,14 +29,25 @@ img {
 
 
 .header_center img {
-    width: 180px;
+    width: 220px;
     height: 80px;
     margin-left: 50px;
+    margin-top: 8px;
 }
+
 
 .header_center .logo_shop {
     width: 25%;
 }
+
+/*
+.header_center .logo_shop img {
+    width: 220px;
+    height: 80px;
+    margin-left: 50px;
+    margin-top: 8px;
+}
+*/
 
 .header_center .logo_shop a {
     text-decoration: none;

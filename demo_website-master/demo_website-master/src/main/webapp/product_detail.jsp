@@ -99,7 +99,7 @@
         </div>
     </form>
     <div class="product-des">
-    	
+    	Đoạn này là mô tả sản phẩm
     </div>
 </div>
 

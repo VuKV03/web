@@ -16,7 +16,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./assets/fonts/fontawesome-free-6.3.0-web/fontawesome-free-6.3.0-web/css/all.min.css">
-    <link rel="stylesheet" href="./assets/css/header.css">
+    <style><%@include file="./assets/css/header.css"%></style>
 </head>
 
 <script src="./assets/js/main.js"></script>
@@ -32,7 +32,8 @@
     <div class="header_center">
         <div class="logo_shop">
             <a href="home">
-                <img src="./assets/image/logo.png" alt="logo_web">
+                <img 
+    				src="./assets/image/logo.png" alt="logo_web">
             </a>
         </div>
 

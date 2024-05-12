@@ -8,6 +8,7 @@
     <link rel="icon" type="image/x-icon" href="./assets/image/favicon.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
     <link rel="stylesheet" href="./assets/css/main.css">
+    <style><%@include file="./assets/css/main.css"%></style>
     <link rel="stylesheet" href="./assets/css/base.css">
     <link
             href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
@@ -150,13 +151,15 @@
                     <div class="container__content--primary--items contianer__content-primary--items-second">
                         <div class="container--items--img">
                             <a href="detail?pid=${o.id}">
-                                <img src="${o.img_primary}" alt=""
+                                <img 
+                                	src="${o.img_primary}" alt=""
                                      class="container__product-img img-primary">
                             </a>
                         </div>
                         <div class="container--items--img">
                             <a href="detail?pid=${o.id}">
-                                <img src="${o.img_second}" alt=""
+                                <img 
+                                	src="${o.img_second}" alt=""
                                      class="container__product-img img-secondary">
                             </a>
                         </div>

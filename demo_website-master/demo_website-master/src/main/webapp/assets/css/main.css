@@ -107,10 +107,13 @@
     position: relative;
 }
 
+
 .container__product-img {
     object-fit: contain;
     width: 100%;
+    height: 480px;
 }
+
 
 .product-vendor {
     color: #7a8189;
