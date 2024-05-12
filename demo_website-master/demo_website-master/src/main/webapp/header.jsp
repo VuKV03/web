@@ -25,14 +25,14 @@
 <header>
     <div class="banner">
         <a href="home">
-            <img class="banner_img" src="./assets/image/top_banner.webp" alt="image_banner">
+            <img class="banner_img" src="./assets/image/banner-top.jpg" alt="image_banner">
         </a>
     </div>
 
     <div class="header_center">
         <div class="logo_shop">
             <a href="home">
-                <img src="./assets/image/logo.webp" alt="logo_web">
+                <img src="./assets/image/logo.png" alt="logo_web">
             </a>
         </div>
 

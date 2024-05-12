@@ -17,7 +17,7 @@ public class BlogControl extends HttpServlet {
         response.setContentType("text/html;charset=UTF-8");
         //b1: get data from dao
         DAO dao = new DAO();
-        List<Blog> list = dao.getAllBlogs();
+        List<Blog> list = dao.getAllBlogs(); 
 
         request.setAttribute("listBL", list);
         request.getRequestDispatcher("index.jsp").forward(request, response);

@@ -52,12 +52,12 @@
                         <a href="detail?pid=${o.id}">
                             <img src="${o.img_primary}" alt="" class="container__product-img img-primary">
                         </a>
-                    </div>
+                    </div>                    
                     <div class="container--items--img">
                         <a href="detail?pid=${o.id}">
                             <img src="${o.img_second}" alt="" class="container__product-img img-secondary">
                         </a>
-                    </div>
+                    </div> 
                     <div class="product--action">
                         <div class="group__prodcut--action">
                             <a href="detail?pid=${o.id}" class="product--action--links btn">
@@ -167,13 +167,13 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="container--items-content">
-                            <span class="product-vendor">${o.name}</span>
+                       <div class="container--items-content">
+                            <span class="product-vendor">${o.name}</span> 
                             <h3 class="product-name">
-                                <a href="detail?pid=${o.id}" class="product-name-link">
+                                 <a href="detail?pid=${o.id}" class="product-name-link">
                                         ${o.description}
-                                </a>
-                            </h3>
+                                </a> 
+                            </h3> 
                             <div class="product-price-box">
                                 <div class="product-price">
                                     <span class="price"><b>${o.salePrice}₫</b></span>

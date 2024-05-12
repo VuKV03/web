@@ -98,6 +98,9 @@
             </div>
         </div>
     </form>
+    <div class="product-des">
+    	
+    </div>
 </div>
 
 <jsp:include page="footer.jsp"/>

@@ -664,6 +664,7 @@ a.category-highlight-text:hover {
     margin-top: 35px;
 }
 
+
 .category-highlight .list-item img {
     width: 100px;
     height: 100px;
@@ -683,6 +684,8 @@ a.category-highlight-text:hover {
 .category-highlight .list-item li:nth-child(10) {
     margin-right: 50px;
 }
+
+
 
 .category-highlight .list-item a {
     text-decoration: none;
