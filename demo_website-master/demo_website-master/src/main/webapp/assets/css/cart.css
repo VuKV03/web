@@ -89,11 +89,11 @@ input {
 /**/
 .order_delete a {
     text-decoration: none;
-    color: #d82e4d;
+    color: #615E3F;
 }
 
 .order_delete a:hover {
-    color: #cc092d;
+    color: #615E3F;
 }
 
 .totalPrice {
@@ -134,7 +134,7 @@ input {
 }
 
 .btn_checkout {
-    background-color: #d82e4d;
+    background-color: #615E3F;
     height: 40px;
     width: 150px;
     border-radius: 100px;
@@ -160,7 +160,7 @@ input {
     justify-content: center;
     display: flex;
     text-align: center;
-    background-color: #d82e4d;
+    background-color: #615E3F;
     height: 40px;
     width: 150px;
     border-radius: 100px;
@@ -179,7 +179,7 @@ input {
 }
 
 .bill_detail {
-    color: #d82e4d;
+    color: #615E3F;
 }
 
 .bill_detail--sum {

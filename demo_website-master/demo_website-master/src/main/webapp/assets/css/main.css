@@ -116,7 +116,7 @@
 
 
 .product-vendor {
-    color: #7a8189;
+    color: #615E3F;
     display: inline-block;
     font-size: 14px;
     letter-spacing: 1.4px;
@@ -143,7 +143,7 @@
 }
 
 .product-name-link:hover {
-    color: #d82e4d;
+    color: #615E3F;
 }
 
 .product-price-box {
@@ -154,7 +154,7 @@
 }
 
 .price {
-    color: #f3283d;
+    color: #0A563C;
     font-weight: 500;
     line-height: 24px;
     font-size: 18px;
@@ -176,7 +176,7 @@
     align-items: center;
     padding: 4px;
     font-size: 18px;
-    background: #d82e4d;
+    background: #0A563C;
     border-radius: 100%;
     color: #fff;
     justify-content: center;
@@ -211,7 +211,7 @@
     display: block;
     width: 100%;
     height: 10px;
-    background: #fedfe2;
+    background: #F4EED6;
     margin-top: 2px;
     border-radius: 9999px;
     position: relative;
@@ -220,7 +220,7 @@
 
 .flashsale___percent {
     height: 100%;
-    background: linear-gradient(270deg, #fabad3, #eb395f);
+    background: linear-gradient(270deg, #F4EED6, #615E3F);
     border-radius: 9999px;
     position: absolute;
     top: 0;
@@ -231,7 +231,7 @@
     position: absolute;
     top: 10px;
     left: 10px;
-    background: #fed632;
+    background: #C6C3A4;
     padding: 7px 2px;
     font-weight: 500;
     font-size: 12px;
@@ -249,7 +249,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: #ee4d2d;
+    color: #615E3F;
     font-weight: 400;
 }
 
@@ -549,6 +549,7 @@
     .price, .compare-price {
         font-size: 16px;
     }
+
 }
 
 @media only screen and (min-width: 740px) and (max-width: 1024px) {
@@ -728,9 +729,9 @@
 }
 
 .sort-by--items:hover .sort-by--items--link {
-    color: #d82e4d;
+    color: #615E3F;
     padding-bottom: 4px;
-    border-bottom: 2px solid #d82e4d;
+    border-bottom: 2px solid #615E3F;
 }
 
 .paging {
@@ -801,7 +802,7 @@
 }
 
 .blog__title:hover {
-    color: #ff4466;
+    color: #615E3F;
 }
 
 .blog__content--title {
@@ -821,7 +822,7 @@
 }
 
 .blog__content--title:hover {
-    color: #ff4466;
+    color: #615E3F;
 }
 
 .blog__content--desc--title {
@@ -842,12 +843,12 @@
     font-size: 16px;
     line-height: 23px;
     margin-top: 10px;
-    color: #d82e4d;
+    color: #615E3F;
     text-decoration: none;
 }
 
 .blog__link--item:hover {
-    color: #ff4466;
+    color: #615E3F;
 }
 
 .crumbread {

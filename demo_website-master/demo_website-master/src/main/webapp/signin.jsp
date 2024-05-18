@@ -1,17 +1,10 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: OS
-  Date: 4/24/2023
-  Time: 11:20 PM
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Đăng nhập</title>
-    <link rel="icon" type="image/x-icon" href="./assets/image/favicon.png">
-    <link rel="stylesheet" href="./assets/css/signin.css">
+    <link rel="icon" type="image/x-icon" href="./assets/image/image-icons/coll_1_medium.png">
+    <style><%@include file="./assets/css/signin.css"%></style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
           integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
           crossorigin="anonymous" referrerpolicy="no-referrer"/>

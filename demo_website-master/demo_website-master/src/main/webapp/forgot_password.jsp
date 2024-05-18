@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="./assets/css/forgot_password.css">
     <meta charset="ISO-8859-1">
     <title>Lấy lại mật khẩu</title>
-    <link rel="icon" type="image/x-icon" href="./assets/image/favicon.png">
+    <link rel="icon" type="image/x-icon" href="./assets/image/image-icons/coll_1_medium.png">
 </head>
 <body>
 <jsp:include page="header_none.jsp"/>

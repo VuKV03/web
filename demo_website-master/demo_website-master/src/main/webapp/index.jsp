@@ -4,12 +4,13 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Comestic</title>
-    <link rel="icon" type="image/x-icon" href="./assets/image/favicon.png">
+    <title>Flowers shop</title>
+    <link rel="icon" type="image/x-icon" href="./assets/image/image-icons/coll_1_medium.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
     <link rel="stylesheet" href="./assets/css/main.css">
     <style><%@include file="./assets/css/main.css"%></style>
-    <link rel="stylesheet" href="./assets/css/base.css">
+    <style><%@include file="./assets/css/base.css"%></style>
+
     <link
             href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
             rel="stylesheet">
@@ -115,32 +116,24 @@
         <div class="container__second--best-seller">
             <div class="container__box--best-seller">
                 <a href="home" class="container__second-link">
-                    <img src="./assets/img/bestseller.jpg" alt="" class="container__second-img">
+                    <img src="./assets/img/best_seller.jpg" alt="" class="container__second-img">
                 </a>
             </div>
             <div class="container__second--best-product">
                 <div class="btn-view-box btn-best-product">
-                    <a href="home" class="btn-view btn-small">Son môi
+                    <a href="home" class="btn-view btn-small">Hoa sinh nhật
                     </a>
                 </div>
                 <div class="btn-view-box btn-best-product">
-                    <a href="home" class="btn-view btn-small">Son dưỡng
+                    <a href="home" class="btn-view btn-small">Hoa valentine
                     </a>
                 </div>
                 <div class="btn-view-box btn-best-product">
-                    <a href="home" class="btn-view btn-small">Phẩn phủ
+                    <a href="home" class="btn-view btn-small">Hoa ngày của mẹ
                     </a>
                 </div>
                 <div class="btn-view-box btn-best-product">
-                    <a href="home" class="btn-view btn-small">Phấn mắt
-                    </a>
-                </div>
-                <div class="btn-view-box btn-best-product">
-                    <a href="home" class="btn-view btn-small">Kem nền
-                    </a>
-                </div>
-                <div class="btn-view-box btn-best-product">
-                    <a href="home" class="btn-view btn-small">Che khuyết điểm
+                    <a href="home" class="btn-view btn-small">Hoa 8-3
                     </a>
                 </div>
             </div>

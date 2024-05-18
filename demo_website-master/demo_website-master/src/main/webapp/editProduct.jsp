@@ -11,7 +11,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Edit Product</title>
-    <link rel="icon" type="image/x-icon" href="./assets/image/favicon.png">
+    <link rel="icon" type="image/x-icon" href="./assets/image/image-icons/coll_1_medium.png">
     <link rel="stylesheet" href="./assets/css/editProduct.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
           integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="

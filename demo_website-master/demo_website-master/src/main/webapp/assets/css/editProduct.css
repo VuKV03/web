@@ -20,7 +20,7 @@
 }
 
 .modal-header {
-    background-color: #b82641;
+    background-color: #615E3F;
 }
 
 .modal-header p {
@@ -124,20 +124,20 @@
     height: 35px;
     margin-left: 571px;
     font-size: 17px;
-    background-color: #d82e4d;
+    background-color: #615E3F;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 .modal-footer input:hover {
-    background-color: #b62d46;
+    background-color: #615E3F;
 }
 
 .css-label-img {
     display: block;
     width: 130px;
-    background: #d82e4d;
+    background: #615E3F;
     color: #fff;
     padding: 12px;
     float: left;

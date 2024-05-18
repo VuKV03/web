@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Verify OTP</title>
     <link rel="stylesheet" href="./assets/css/otp.css">
-    <link rel="icon" type="image/x-icon" href="./assets/image/favicon.png">
+    <link rel="icon" type="image/x-icon" href="./assets/image/image-icons/coll_1_medium.png">
     <script src="./assets/js/otp.js"></script>
 </head>
 <body>

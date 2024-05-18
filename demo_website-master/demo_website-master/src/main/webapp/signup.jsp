@@ -10,7 +10,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Đăng ký</title>
-    <link rel="icon" type="image/x-icon" href="./assets/image/favicon.png">
+    <link rel="icon" type="image/x-icon" href="./assets/image/image-icons/coll_1_medium.png">
     <link rel="stylesheet" href="./assets/css/signup.css">
 </head>
 <body>

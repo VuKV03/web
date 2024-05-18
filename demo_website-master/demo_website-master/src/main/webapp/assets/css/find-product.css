@@ -30,7 +30,7 @@
 }
 
 .product_container--name:hover {
-    color: #d82e4d;
+    color: #615E3F;
 }
 
 .product_container--title {
@@ -48,11 +48,11 @@
 }
 
 .product_status span {
-    color: #d82e4d;
+    color: #615E3F;
 }
 
 .product_container--sale-price {
-    color: #f3283d;
+    color: #615E3F;
     font-size: 30px;
     font-weight: 500;
     line-height: 30px;
@@ -74,9 +74,9 @@
 
 .product_container--percent-price {
     align-items: center;
-    background-color: #fed632;
+    background-color: #C6C3A4;
     border-radius: 9999px;
-    color: #ee4d2d;
+    color: #615E3F;
     display: flex;
     font-size: 12px;
     font-weight: 500;
@@ -157,7 +157,7 @@
 }
 
 .product__number input:focus {
-    border: 1px solid red;
+    border: 1px solid #615E3F;
 }
 
 .product__btn--add--cart {
@@ -177,7 +177,7 @@
     font-size: 18px;
     text-decoration: none;
     color: #ffff;
-    background-color: #d82e4d;
+    background-color: #615E3F;
     border-radius: 100px;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
@@ -187,14 +187,14 @@
 }
 
 .btn-buy {
-    color: #d82e4d;
-    border: 1px solid #d82e4d;
+    color: #615E3F;
+    border: 1px solid #615E3F;
     background-color: transparent;
 }
 
 .product-btn-buy:hover .btn-buy {
     color: #ffff;
-    background-color: #d82e4d;
+    background-color: #615E3F;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
 

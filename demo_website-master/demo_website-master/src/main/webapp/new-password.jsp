@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Đổi mật khẩu</title>
     <link rel="stylesheet" href="./assets/css/new-password.css">
-    <link rel="icon" type="image/x-icon" href="./assets/image/favicon.png">
+    <link rel="icon" type="image/x-icon" href="./assets/image/image-icons/coll_1_medium.png">
 </head>
 <body>
 <jsp:include page="header_none.jsp"/>

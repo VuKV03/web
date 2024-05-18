@@ -128,6 +128,7 @@ INSERT INTO `product` VALUES
 	
 	
 
-UPDATE `product`
-SET img_secondary = "./assets/img/img-1/item-1.jpg"
-where cate_ID = 1;
+UPDATE product
+SET img_primary = './assets/img/img-10/item-1_1.jpg',
+  img_secondary = './assets/img/img-10/item-1_1.jpg'
+WHERE id = 91;

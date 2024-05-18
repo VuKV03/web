@@ -10,8 +10,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Footer</title>
-    <link rel="icon" type="image/x-icon" href="./assets/image/favicon.png">
-    <link rel="stylesheet" href="./assets/css/footer.css">
+    <link rel="icon" type="image/x-icon" href="./assets/image/image-icons/coll_1_medium.png">
+    <style><%@include file="./assets/css/footer.css"%></style>
     <link rel="stylesheet" href="./assets/fonts/fontawesome-free-6.3.0-web/fontawesome-free-6.3.0-web/css/all.min.css">
 </head>
 <body>
@@ -20,47 +20,44 @@
         <div class="info-contact">
             <h1>Thông tin liên hệ</h1>
             <a href="home" class="info-contact-logo">
-                <img src="./assets/images/logo-footer.webp" alt="logo-footer"/>
+                <img src="./assets/images/logo-footer.png" alt="logo-footer"/>
             </a>
-            <p>Công ty TNHH Bán lẻ SammiShop.
+            <p><b>Công ty TNHH VAND</b>
                 <br>
-                SammiShop là chuỗi siêu thị mỹ phẩm chính hãng, giá rẻ, đáng tin cậy dành cho giới trẻ Việt Nam.
-                <br>
-                Giấy chứng nhận đăng ký kinh doanh số 0109129611 cấp ngày 18/03/2020 tại Phòng đăng ký kinh doanh Sở
-                kế hoạch và đầu tư thành phố Hà Nội.
+                VAND là chuỗi cửa hàng bán hoa chính hãng, giá rẻ, đáng tin cậy dành cho giới trẻ Việt Nam.
             </p>
             <p>
                 <i class="fa-sharp fa-solid fa-location-dot"></i>
-                Địa chỉ: Số 159, Xuân Thủy, phường Dịch Vọng Hậu, quận Cầu Giấy, thành phố Hà Nội.
+                Địa chỉ: Km 10, Đường Nguyễn Trãi, Hà Nội – Hà Đông.
             </p>
             <p>
                 <i class="fa-solid fa-mobile-screen-button"></i>
-                Số điện thoại: 19002631
+                Số điện thoại: 113
             </p>
             <p>
                 <i class="fa-solid fa-envelope"></i>
-                Email: cskh@sammishop.com
+                Email: cskh@vand.com
             </p>
             <ul class="icon">
-                <li><a href="https://www.facebook.com/Sammishop.com86">
+                <li><a target="blank" href="https://www.facebook.com/profile.php?id=100065410123877">
                     <img src="./assets/images/facebook.svg" alt="fb-icon"/></a>
                 </li>
-                <li><a href="https://zalo.me/4034357249438657314">
+                <li><a target="blank" href="https://www.facebook.com/profile.php?id=100065410123877">
                     <img src="./assets/images/zalo.svg" alt="zalo-icon"/></a>
                 </li>
-                <li><a href="https://www.instagram.com/sammishop_official/">
+                <li><a target="blank" href="https://www.facebook.com/profile.php?id=100065410123877">
                     <img src="./assets/images/instagram.svg" alt="instagram-icon"/></a>
                 </li>
-                <li><a href="https://shopee.vn/sammishop86">
+                <li><a target="blank" href="https://www.facebook.com/profile.php?id=100065410123877">
                     <img src="./assets/images/shopee.webp" alt="shopee-icon"/></a>
                 </li>
-                <li><a href="https://www.lazada.vn/shop/sammishop-offical/">
+                <li><a target="blank" href="https://www.facebook.com/profile.php?id=100065410123877">
                     <img src="./assets/images/lazada.webp" alt="lazada-icon"/></a>
                 </li>
-                <li><a href="https://tiki.vn/cua-hang/sammishop">
+                <li><a target="blank" href="https://www.facebook.com/profile.php?id=100065410123877">
                     <img src="./assets/images/tiki.webp" alt="tiki-icon"/></a>
                 </li>
-                <li><a href="https://www.tiktok.com/@sammishop_official">
+                <li><a target="blank" href="https://www.facebook.com/profile.php?id=100065410123877">
                     <img src="./assets/images/tiktok.webp" alt="tiktok-icon"/></a>
                 </li>
             </ul>
@@ -119,18 +116,20 @@
                         <img src="./assets/images/logo_bct.webp" alt="logo-bct" width="150px" height="57px"/>
                     </a>
                     <div class="download-app">
-                        <h1>Tải ngay App SammiShop</h1>
+                        <h1>Tải ngay App VAND</h1>
                         <div class="download-app-container">
-                            <img src="./assets/images/logo-footer.webp" width="150px" height="150px"
+                            <img src="./assets/images/logo-footer.png" width="150px" height="150px"
                                  class="logo-app"/>
                             <div class="logo-download">
                                 <a class="app-store-logo"
-                                   href="https://apps.apple.com/vn/app/sammi-shop/id1515882916?l=vi">
+                                   target="blank"
+                                   href="https://apps.apple.com/">
                                     <img src="./assets/images/app_store.webp" width="170px" height="50px"
                                          alt="app store"/>
                                 </a>
                                 <a class="google-play-logo"
-                                   href="https://play.google.com/store/apps/details?id=vn.suplo.sammishop&pli=1">
+                                   target="blank"
+                                   href="https://play.google.com/">
                                     <img src="./assets/images/google_play.webp" width="170px" height="50px"
                                          alt="google play"/>
                                 </a>
@@ -146,7 +145,7 @@
         <div class="copyright-col1">
             <p>
                 © Bản quyền thuộc về
-                <a href="home">SAMMISHOP</a>
+                <a href="home">VAND</a>
             </p>
         </div>
 

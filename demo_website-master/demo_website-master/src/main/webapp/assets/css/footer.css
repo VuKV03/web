@@ -113,7 +113,7 @@ body {
 }
 
 .info-intro .list li a:hover {
-    color: #d82e4d;
+    color: #0A563C;
 }
 
 .input-form .input-form-email {
@@ -133,7 +133,7 @@ body {
     padding: 7px 10px;
     border-radius: 0 25px 25px 0;
     border: none;
-    background-color: #d82e4d;
+    background-color: #615E3F;
     color: #fff;
     font-size: 15px;
     font-weight: 400;
@@ -144,7 +144,7 @@ body {
 }
 
 .input-form .input-form-btn:hover {
-    background-color: #db1c3f;
+    background-color: #0A563C;
 }
 
 .method-payment .method-payment-icon {
